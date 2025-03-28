@@ -1,0 +1,11 @@
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\webapi.exe
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\webapi.dll
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\webapi.deps.json
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\webapi.runtimeconfig.json
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\webapi.pdb
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Angular\MovieAPI\webapi\webapi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
